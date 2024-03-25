@@ -3,9 +3,9 @@
 Welcome to the repository for Gustavo-hc's personal wedding invitation website! This project aims to create a comprehensive and elegant platform to share the details of Gustavo's big day in a memorable way. We're using modern technologies to ensure a smooth and delightful user experience. 💍💕
 
 ## Technologies Used:
-- **Frontend**: <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> VueJS
-- **Backend**: <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/> Ruby
-- **Database**: <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> PostgreSQL
+- **VueJS**: <img src="https://img.icons8.com/color/32/000000/vue-js.png"/> 
+- **Ruby**: <img src="https://img.icons8.com/color/32/000000/ruby-programming-language.png"/> 
+- **PostgreSQL**: <img src="https://img.icons8.com/color/32/000000/postgreesql.png"/> 
 - **Automation**: Bash scripts
 
 ## Key Features:
